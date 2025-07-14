@@ -55,21 +55,6 @@ This project is licensed under the MIT License – feel free to use and modify.
 💡 Want to create your own portfolio like this?
 Fork this repo, replace with your content, and launch it using GitHub Pages!
 
-yaml
-Copy
-Edit
-
----
-
-### ✅ NEXT STEPS
-
-1. Go to your GitHub repo
-2. Click **“Add file” > “Create new file”**
-3. Name it `README.md`
-4. Paste the content above
-5. Click **“Commit new file”**
-
----
 
 ✅ If you give me your real:
 - 📧 Email
