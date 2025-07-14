@@ -49,8 +49,11 @@ This website is part of my journey in showcasing what I learn and build.
 💼 LinkedIn: https://www.linkedin.com/in/harshit-tiwari
 📷 Instagram: https://instagram.com/yourprofile
 
-📢 License
-This project is licensed under the MIT License – feel free to use and modify.
+## 📢 License
+
+This project is licensed under the **MIT License** — feel free to use and modify.
+See the [LICENSE](LICENSE) file for details.
+
 
 💡 Want to create your own portfolio like this?
 Fork this repo, replace with your content, and launch it using GitHub Pages!
