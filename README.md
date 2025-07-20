@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This site showcases my journey, skills, projects, and achievements. Built using HTML, CSS, and JavaScript with a clean and responsive design.
 
 🚀 **Live Website:**  
-🔗 [https://harshittiwari.github.io/harshit-portfolio/](https://harshittiwari.github.io/harshit-portfolio/)
+🔗 [https://harshittiwari.github.io/harshit-portfolio/](https://harshit1164.github.io/harshit-portfolio/)
 
 ---
 
